@@ -32,3 +32,4 @@ QashqAI Voice amplifies the stories and experiences of overlooked communities us
 This repository is a starting point for open collaboration. Contribute ideas, translations, visibility strategies, and tools.
 
 > “Silence is not neutral. Every voice counts — especially those long ignored.”م
+📖 Read the full story on Medium: [QashqAI Voice – A Cultural Justice Initiative](https://medium.com/your-post-link-here)
