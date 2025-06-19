@@ -1,0 +1,10 @@
+{
+  "name": "QashqAI Voice",
+  "description": "A multilingual, AI-powered digital platform to preserve endangered dialects and empower marginalized voices.",
+  "website": "https://qashqaivoice.io",
+  "repository": "https://github.com/siefollahaslani/qashqai-voice",
+  "license": "MIT",
+  "sdgs": ["SDG-4", "SDG-10", "SDG-16"],
+  "organization": "Siefollah Aslani",
+  "contact_email": "siefi.aslani@gmail.com"
+}
