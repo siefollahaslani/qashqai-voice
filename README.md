@@ -29,7 +29,19 @@ QashqAI Voice amplifies the stories and experiences of overlooked communities us
 
 ## 📢 Join the Movement
 
-This repository is a starting point for open collaboration. Contribute ideas, translations, visibility strategies, and tools.
+This repository is a starting point for open collaboration. Contribute ideas, translations, visibility strategies, and tools.---
+
+## 🌍 Global Submission
+
+QashqAI Voice has officially been submitted to the [Digital Public Goods Alliance (DPGA)](https://digitalpublicgoods.net), a United Nations-supported initiative that recognizes technologies for public benefit.
+
+🗂 Submission File: [`qashqai-voice.json`](./qashqai-voice.json)  
+🧑‍💻 Maintainer: [Siefollah Aslani](mailto:siefi.aslani@gmail.com)
+
+We believe that access to voice and language is a human right.  
+By preserving endangered dialects through AI, we are digitizing dignity.
+
+➡️ Learn more on [qashqaivoice.io](https://qashqaivoice.io)
 
 > “Silence is not neutral. Every voice counts — especially those long ignored.”م
 📖 Read the full story on Medium: [QashqAI Voice – A Cultural Justice Initiative](https://medium.com/your-post-link-here)
