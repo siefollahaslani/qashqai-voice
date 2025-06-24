@@ -45,3 +45,17 @@ By preserving endangered dialects through AI, we are digitizing dignity.
 
 > “Silence is not neutral. Every voice counts — especially those long ignored.”م
 📖 Read the full story on Medium: [QashqAI Voice – A Cultural Justice Initiative](https://medium.com/your-post-link-here)
+
+⸻
+
+🌍 Global Submission
+
+QashqAI Voice has officially been submitted to the Digital Public Goods Alliance (DPGA), a United Nations-supported initiative that recognizes technologies for public benefit.
+
+🗂 Submission File: qashqai-voice.json
+🧑‍💻 Maintainer: Siefollah Aslani
+
+We believe that access to voice and language is a human right.
+By preserving endangered dialects through AI, we are digitizing dignity.
+
+➡️ Learn more on qashqaivoice.io
